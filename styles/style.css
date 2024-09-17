@@ -311,7 +311,7 @@
   }
   
   .about {
-    margin: 144px 24px 175px 24px;
+    margin: 145px 24px 175px 24px;
     width: 1052px;
     height: 595px;
     display: grid;
@@ -347,7 +347,6 @@
     font-size: 40px;
     line-height: 46.96px;
     text-transform: uppercase;
-    text-align: left;
     font-weight: bold;
   }
   
