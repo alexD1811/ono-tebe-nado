@@ -66,10 +66,12 @@
     padding-bottom: 2px;
     font-size:18px;
     line-height: 1.35;
+
 }
 
 
 .header__address {
+
     display: flex; 
     flex-direction: column; 
     justify-content: flex-end;
@@ -115,18 +117,20 @@
 }
 
 .aligned-text {
-    text-align: start;
+    display: block;
     padding-top: 0px;
     
 
 }
 
 .aligned-text_center {
+    display: block;
     text-align: center;
     padding-top: 17px;
 }
 
 .aligned-text_right {
+    display: block;
     text-align: right;
 }
 
