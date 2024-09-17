@@ -6,8 +6,9 @@
 
 body {
   width: 1100px;
-  margin: 0 auto;
+  margin: auto;
   font-family: Raleway, sans-serif;
+  background-image: yellow;
 }
 
 h1,
