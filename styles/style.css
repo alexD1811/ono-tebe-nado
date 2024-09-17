@@ -69,7 +69,7 @@
 }
 
 
-.header__address{
+.header__address {
     display: flex; 
     flex-direction: column; 
     justify-content: flex-end;
@@ -77,6 +77,7 @@
     row-gap:0px;
     font-style: normal;
     margin-right: 62px;
+
 }
 
 .cover {
@@ -89,6 +90,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    
 }
 
 .overlay {
@@ -286,7 +288,7 @@
     justify-content: space-between;
     position: relative;
     z-index: 3;
-    min-height: 563px; 
+    min-height: 563px;
 
 }
 
@@ -350,7 +352,7 @@
     width: 148px;
     height: 114px;
     margin-top: 64px;
-    background-image: url(../images/logo-white.svg); 
+    background-image: url(../images/logo-white.svg);
 
 }
 
@@ -464,10 +466,6 @@
 .footer__social-list-item {
     list-style:none;
 
-}
-
-.footer__social-link {
-    
 }
 
 .footer__social-icon_yt {
