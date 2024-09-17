@@ -416,6 +416,7 @@
 }
 
 .footer__address {
+
     display: flex; 
     flex-direction: column; 
     justify-content: flex-start;
@@ -436,11 +437,11 @@
 }
 
 .footer__menu-list {
+
     display: flex; 
     flex-direction: column;
     align-items: center;
     list-style:none;
-
 
 }
 
@@ -454,6 +455,7 @@
 }
 
 .footer__social-list {
+    
     display: flex;
     flex-direction: row;
     justify-content: space-between; 
